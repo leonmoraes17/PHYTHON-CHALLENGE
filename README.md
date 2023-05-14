@@ -17,4 +17,4 @@ A data set was given for a certain country and we have to find who has got the m
 The total number of votes cast.A complete list of candidates who received votes.The percentage of votes each candidate won
 .The total number of votes each candidate won.The winner of the election based on popular vote
 
-he main.py file has my comments which shows step by step how the code was developed with the logic that was used .
+The main.py file has my comments which shows step by step how the code was developed with the logic that was used .
